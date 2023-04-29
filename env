@@ -1,0 +1,2 @@
+DISCORD_TOKEN = "Aqui se introduce el token del servidor de discord"
+OPENAI_TOKEN = "Aqui se introduce el token de la api openai"
